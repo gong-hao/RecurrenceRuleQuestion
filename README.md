@@ -66,6 +66,12 @@ google calendar、iCloud Calendar、outlook行事曆 等大廠也都允許建立
 
 缺點 : 即時運算耗時。
 
+使用方法一的效果 :
+
+![](https://raw.githubusercontent.com/neverlostmine/RecurrenceRuleQuestion/master/pics/run.gif)
+
+前面是 NG2 bootstrap 的時間，實際讀 API 是從**讀取中，請稍後**開始
+
 方法二 : 紀錄所有的落點時間，需要比對時直接下查詢語法比對
 ---
 優點 : 查詢相對快速，但是如果循環事件。
